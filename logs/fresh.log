@@ -1,0 +1,76 @@
+2017-04-09T14:44:14,777 [Thread-2] INFO vladlitvin.action.PassengerTransporter - passanger 9 get off the bus № 46
+2017-04-09T14:44:14,777 [Thread-3] INFO vladlitvin.action.PassengerTransporter - passanger 6 get off the bus № 24
+2017-04-09T14:44:14,783 [Thread-2] INFO vladlitvin.action.PassengerTransporter - passanger 7 get off the bus № 46
+2017-04-09T14:44:15,787 [Thread-3] INFO vladlitvin.action.PassengerTransporter - passanger 11 get on the  bus № 24
+2017-04-09T14:44:15,788 [Thread-2] INFO vladlitvin.action.PassengerTransporter - passanger 12 get on the  bus № 46
+2017-04-09T14:44:15,788 [Thread-3] INFO vladlitvin.action.PassengerTransporter - passanger 13 get on the  bus № 24
+2017-04-09T14:44:18,788 [Thread-1] INFO vladlitvin.entity.Station - Bus № 53 left with the station Мирошниченко
+2017-04-09T14:44:18,788 [Thread-5] INFO vladlitvin.entity.Station - Bus № 33 left with the station Мирошниченко
+2017-04-09T14:44:19,791 [Thread-3] INFO vladlitvin.entity.Station - Bus № 24 left with the station Цнянское водохранилище
+2017-04-09T14:44:19,791 [Thread-4] INFO vladlitvin.entity.Station - Bus № 34 left with the station Цнянское водохранилище
+2017-04-09T14:44:19,791 [Thread-2] INFO vladlitvin.entity.Station - Bus № 46 left with the station Цнянское водохранилище
+2017-04-09T14:44:19,791 [Thread-5] INFO vladlitvin.entity.Station - Bus № 33 arrived at the station Цнянское водохранилище
+2017-04-09T14:44:19,791 [Thread-1] INFO vladlitvin.entity.Station - Bus № 53 arrived at the station Цнянское водохранилище
+2017-04-09T14:44:19,791 [Thread-1] INFO vladlitvin.action.PassengerTransporter - passanger 3 get off the bus № 53
+2017-04-09T14:44:19,791 [Thread-1] INFO vladlitvin.action.PassengerTransporter - passanger 4 get off the bus № 53
+2017-04-09T14:44:20,793 [Thread-1] INFO vladlitvin.action.PassengerTransporter - passanger 14 get on the  bus № 53
+2017-04-09T14:44:20,793 [Thread-2] INFO vladlitvin.entity.Station - Bus № 46 arrived at the station Гамарника
+2017-04-09T14:44:20,793 [Thread-4] INFO vladlitvin.entity.Station - Bus № 34 arrived at the station Гамарника
+2017-04-09T14:44:20,793 [Thread-3] INFO vladlitvin.entity.Station - Bus № 24 arrived at the station Гамарника
+2017-04-09T14:44:20,793 [Thread-1] INFO vladlitvin.action.PassengerTransporter - passanger 15 get on the  bus № 53
+2017-04-09T14:44:20,793 [Thread-3] INFO vladlitvin.action.PassengerTransporter - passanger 13 get off the bus № 24
+2017-04-09T14:44:20,793 [Thread-4] INFO vladlitvin.action.PassengerTransporter - passanger 0 get off the bus № 34
+2017-04-09T14:44:20,793 [Thread-1] INFO vladlitvin.action.PassengerTransporter - passanger 16 get on the  bus № 53
+2017-04-09T14:44:21,794 [Thread-4] INFO vladlitvin.action.PassengerTransporter - passanger 17 get on the  bus № 34
+2017-04-09T14:44:21,794 [Thread-2] INFO vladlitvin.action.PassengerTransporter - passanger 18 get on the  bus № 46
+2017-04-09T14:44:21,794 [Thread-2] INFO vladlitvin.action.PassengerTransporter - passanger 19 get on the  bus № 46
+2017-04-09T14:44:24,797 [Thread-1] INFO vladlitvin.entity.Station - Bus № 53 left with the station Цнянское водохранилище
+2017-04-09T14:44:24,797 [Thread-5] INFO vladlitvin.entity.Station - Bus № 33 left with the station Цнянское водохранилище
+2017-04-09T14:44:25,798 [Thread-4] INFO vladlitvin.entity.Station - Bus № 34 left with the station Гамарника
+2017-04-09T14:44:25,798 [Thread-3] INFO vladlitvin.entity.Station - Bus № 24 left with the station Гамарника
+2017-04-09T14:44:25,798 [Thread-2] INFO vladlitvin.entity.Station - Bus № 46 left with the station Гамарника
+2017-04-09T14:44:25,798 [Thread-1] INFO vladlitvin.entity.Station - Bus № 53 arrived at the station Гамарника
+2017-04-09T14:44:25,798 [Thread-5] INFO vladlitvin.entity.Station - Bus № 33 arrived at the station Гамарника
+2017-04-09T14:44:25,798 [Thread-1] INFO vladlitvin.action.PassengerTransporter - passanger 16 get off the bus № 53
+2017-04-09T14:44:26,813 [Thread-5] INFO vladlitvin.action.PassengerTransporter - passanger 20 get on the  bus № 33
+2017-04-09T14:44:26,813 [Thread-2] INFO vladlitvin.entity.Station - Bus № 46 arrived at the station Кольцова
+2017-04-09T14:44:26,813 [Thread-3] INFO vladlitvin.entity.Station - Bus № 24 arrived at the station Кольцова
+2017-04-09T14:44:26,813 [Thread-4] INFO vladlitvin.entity.Station - Bus № 34 arrived at the station Кольцова
+2017-04-09T14:44:26,813 [Thread-4] INFO vladlitvin.action.PassengerTransporter - passanger 2 get off the bus № 34
+2017-04-09T14:44:27,828 [Thread-2] INFO vladlitvin.action.PassengerTransporter - passanger 21 get on the  bus № 46
+2017-04-09T14:44:27,828 [Thread-4] INFO vladlitvin.action.PassengerTransporter - passanger 22 get on the  bus № 34
+2017-04-09T14:44:27,828 [Thread-3] INFO vladlitvin.action.PassengerTransporter - passanger 23 get on the  bus № 24
+2017-04-09T14:44:30,819 [Thread-5] INFO vladlitvin.entity.Station - Bus № 33 left with the station Гамарника
+2017-04-09T14:44:30,819 [Thread-1] INFO vladlitvin.entity.Station - Bus № 53 left with the station Гамарника
+2017-04-09T14:44:31,829 [Thread-3] INFO vladlitvin.entity.Station - Bus № 24 left with the station Кольцова
+2017-04-09T14:44:31,829 [Thread-2] INFO vladlitvin.entity.Station - Bus № 46 left with the station Кольцова
+2017-04-09T14:44:31,829 [Thread-4] INFO vladlitvin.entity.Station - Bus № 34 left with the station Кольцова
+2017-04-09T14:44:31,829 [Thread-1] INFO vladlitvin.entity.Station - Bus № 53 arrived at the station Кольцова
+2017-04-09T14:44:31,829 [Thread-5] INFO vladlitvin.entity.Station - Bus № 33 arrived at the station Кольцова
+2017-04-09T14:44:32,837 [Thread-3] INFO vladlitvin.entity.Station - Bus № 24 arrived at the station Никитино
+2017-04-09T14:44:32,837 [Thread-2] INFO vladlitvin.entity.Station - Bus № 46 arrived at the station Никитино
+2017-04-09T14:44:32,837 [Thread-4] INFO vladlitvin.entity.Station - Bus № 34 arrived at the station Никитино
+2017-04-09T14:44:32,838 [Thread-3] INFO vladlitvin.action.PassengerTransporter - passanger 8 get off the bus № 24
+2017-04-09T14:44:32,838 [Thread-2] INFO vladlitvin.action.PassengerTransporter - passanger 18 get off the bus № 46
+2017-04-09T14:44:32,838 [Thread-3] INFO vladlitvin.action.PassengerTransporter - passanger 11 get off the bus № 24
+2017-04-09T14:44:33,838 [Thread-2] INFO vladlitvin.action.PassengerTransporter - passanger 24 get on the  bus № 46
+2017-04-09T14:44:33,838 [Thread-4] INFO vladlitvin.action.PassengerTransporter - passanger 25 get on the  bus № 34
+2017-04-09T14:44:36,843 [Thread-1] INFO vladlitvin.entity.Station - Bus № 53 left with the station Кольцова
+2017-04-09T14:44:36,843 [Thread-5] INFO vladlitvin.entity.Station - Bus № 33 left with the station Кольцова
+2017-04-09T14:44:37,838 [Thread-2] INFO vladlitvin.entity.Station - Bus № 46 left with the station Никитино
+2017-04-09T14:44:37,838 [Thread-3] INFO vladlitvin.entity.Station - Bus № 24 left with the station Никитино
+2017-04-09T14:44:37,854 [Thread-4] INFO vladlitvin.entity.Station - Bus № 34 left with the station Никитино
+2017-04-09T14:44:37,854 [Thread-5] INFO vladlitvin.entity.Station - Bus № 33 arrived at the station Никитино
+2017-04-09T14:44:37,854 [Thread-1] INFO vladlitvin.entity.Station - Bus № 53 arrived at the station Никитино
+2017-04-09T14:44:37,854 [Thread-5] INFO vladlitvin.action.PassengerTransporter - passanger 10 get off the bus № 33
+2017-04-09T14:44:37,854 [Thread-1] INFO vladlitvin.action.PassengerTransporter - passanger 14 get off the bus № 53
+2017-04-09T14:44:38,845 [Thread-2] INFO vladlitvin.entity.Bus - Bus № 46 finished route
+2017-04-09T14:44:38,845 [Thread-3] INFO vladlitvin.entity.Bus - Bus № 24 finished route
+2017-04-09T14:44:38,861 [Thread-4] INFO vladlitvin.entity.Bus - Bus № 34 finished route
+2017-04-09T14:44:38,861 [Thread-5] INFO vladlitvin.action.PassengerTransporter - passanger 26 get on the  bus № 33
+2017-04-09T14:44:38,861 [Thread-1] INFO vladlitvin.action.PassengerTransporter - passanger 27 get on the  bus № 53
+2017-04-09T14:44:38,861 [Thread-5] INFO vladlitvin.action.PassengerTransporter - passanger 28 get on the  bus № 33
+2017-04-09T14:44:42,864 [Thread-5] INFO vladlitvin.entity.Station - Bus № 33 left with the station Никитино
+2017-04-09T14:44:42,864 [Thread-1] INFO vladlitvin.entity.Station - Bus № 53 left with the station Никитино
+2017-04-09T14:44:43,879 [Thread-5] INFO vladlitvin.entity.Bus - Bus № 33 finished route
+2017-04-09T14:44:43,879 [Thread-1] INFO vladlitvin.entity.Bus - Bus № 53 finished route

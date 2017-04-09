@@ -1,0 +1,451 @@
+2017-04-08T23:08:23,375 [Thread-3] INFO epam.vladlitvin.Bus - Автобус #53Начал движение по маршрутуЗелёный луг-7 -- Никитино
+2017-04-08T23:08:23,375 [Thread-4] INFO epam.vladlitvin.Bus - Автобус #53Начал движение по маршрутуЗелёный луг-7 -- Никитино
+2017-04-08T23:08:23,375 [Thread-1] INFO epam.vladlitvin.Bus - Автобус #53Начал движение по маршрутуЗелёный луг-7 -- Никитино
+2017-04-08T23:08:23,375 [Thread-2] INFO epam.vladlitvin.Bus - Автобус #53Начал движение по маршрутуЗелёный луг-7 -- Никитино
+2017-04-08T23:08:23,375 [Thread-5] INFO epam.vladlitvin.Bus - Автобус #53Начал движение по маршрутуЗелёный луг-7 -- Никитино
+2017-04-08T23:08:23,394 [Thread-2] INFO epam.vladlitvin.Station - автобус №53Прибыл на остановку Мирошниченко
+2017-04-08T23:08:23,394 [Thread-5] INFO epam.vladlitvin.Station - автобус №53Прибыл на остановку Кольцова
+2017-04-08T23:08:23,394 [Thread-4] INFO epam.vladlitvin.Station - автобус №53Прибыл на остановку Гамарника
+2017-04-08T23:08:23,394 [Thread-1] INFO epam.vladlitvin.Station - автобус №53Прибыл на остановку Цнянское водохранилище
+2017-04-08T23:08:23,394 [Thread-3] INFO epam.vladlitvin.Station - автобус №53Прибыл на остановку Зелёный луг-7
+2017-04-08T23:08:23,394 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,394 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,409 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:23,425 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:28,408 [Thread-5] INFO epam.vladlitvin.Station - автобус №53Уехал с остановки Кольцова
+2017-04-08T23:08:28,408 [Thread-1] INFO epam.vladlitvin.Station - автобус №53Уехал с остановки Цнянское водохранилище
+2017-04-08T23:08:28,408 [Thread-1] INFO epam.vladlitvin.Bus - Автобус #53 закончил маршрут.
+2017-04-08T23:08:28,408 [Thread-5] INFO epam.vladlitvin.Station - автобус №53Прибыл на остановку Никитино
+2017-04-08T23:08:28,408 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:28,408 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:28,408 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:28,408 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:28,408 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:28,408 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:28,408 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:28,408 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:28,408 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:28,408 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:28,408 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:28,408 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:28,408 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:08:28,424 [Thread-2] INFO epam.vladlitvin.Station - автобус №53Уехал с остановки Мирошниченко
+2017-04-08T23:08:28,424 [Thread-2] INFO epam.vladlitvin.Bus - Автобус #53 закончил маршрут.
+2017-04-08T23:08:28,427 [Thread-3] INFO epam.vladlitvin.Station - автобус №53Уехал с остановки Зелёный луг-7
+2017-04-08T23:08:28,427 [Thread-4] INFO epam.vladlitvin.Station - автобус №53Уехал с остановки Гамарника
+2017-04-08T23:08:28,427 [Thread-3] INFO epam.vladlitvin.Bus - Автобус #53 закончил маршрут.
+2017-04-08T23:08:28,427 [Thread-4] INFO epam.vladlitvin.Bus - Автобус #53 закончил маршрут.
+2017-04-08T23:08:33,435 [Thread-5] INFO epam.vladlitvin.Station - автобус №53Уехал с остановки Никитино
+2017-04-08T23:08:33,435 [Thread-5] INFO epam.vladlitvin.Bus - Автобус #53 закончил маршрут.
+2017-04-08T23:09:06,515 [Thread-5] INFO epam.vladlitvin.Bus - Автобус #33Начал движение по маршрутуЗелёный луг-7 -- Никитино
+2017-04-08T23:09:06,515 [Thread-3] INFO epam.vladlitvin.Bus - Автобус #24Начал движение по маршрутуЗелёный луг-7 -- Никитино
+2017-04-08T23:09:06,515 [Thread-2] INFO epam.vladlitvin.Bus - Автобус #46Начал движение по маршрутуЗелёный луг-7 -- Никитино
+2017-04-08T23:09:06,515 [Thread-1] INFO epam.vladlitvin.Bus - Автобус #53Начал движение по маршрутуЗелёный луг-7 -- Никитино
+2017-04-08T23:09:06,515 [Thread-4] INFO epam.vladlitvin.Bus - Автобус #34Начал движение по маршрутуЗелёный луг-7 -- Никитино
+2017-04-08T23:09:06,531 [Thread-3] INFO epam.vladlitvin.Station - автобус №24Прибыл на остановку Кольцова
+2017-04-08T23:09:06,531 [Thread-5] INFO epam.vladlitvin.Station - автобус №33Прибыл на остановку Цнянское водохранилище
+2017-04-08T23:09:06,531 [Thread-2] INFO epam.vladlitvin.Station - автобус №46Прибыл на остановку Мирошниченко
+2017-04-08T23:09:06,531 [Thread-4] INFO epam.vladlitvin.Station - автобус №34Прибыл на остановку Зелёный луг-7
+2017-04-08T23:09:06,531 [Thread-1] INFO epam.vladlitvin.Station - автобус №53Прибыл на остановку Гамарника
+2017-04-08T23:09:06,531 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,531 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,531 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,531 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,531 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,531 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,531 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,531 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,531 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,531 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,531 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,531 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,531 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,531 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,531 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,531 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,531 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,531 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,531 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,531 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,531 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,531 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,531 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,531 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,531 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,531 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,531 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,531 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,531 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,531 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,531 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,531 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,531 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,531 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,531 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,531 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,531 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,531 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,531 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,531 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,531 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,531 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,531 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,531 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,531 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,531 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,547 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,547 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,547 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,547 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,547 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,547 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,547 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,547 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,547 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,547 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,547 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,547 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,547 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,547 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,547 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,547 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,547 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,547 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,547 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,547 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,547 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,547 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,547 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,547 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,547 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,547 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,547 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,547 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,547 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,547 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,547 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,547 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,547 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,547 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,547 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,547 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,547 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,547 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,547 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,547 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,547 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,547 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,547 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,547 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,547 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,547 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,547 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,547 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,547 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,547 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,547 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,547 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,547 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,547 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,562 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,562 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,562 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,562 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,562 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:06,562 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,562 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,562 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,562 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,562 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,562 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,562 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,562 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,562 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,562 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,562 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,562 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,562 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,562 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,562 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,562 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,562 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,562 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,562 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,562 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,562 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,562 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,562 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,562 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,562 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,562 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,562 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,562 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,562 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:09:06,562 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,562 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,562 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,562 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,562 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,562 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,562 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,562 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,562 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,562 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,562 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,562 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,562 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,562 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,562 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,562 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,562 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,578 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:09:06,578 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,578 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,578 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,578 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,578 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,578 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:06,578 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:09:06,578 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:09:11,565 [Thread-1] INFO epam.vladlitvin.Station - автобус №53Уехал с остановки Гамарника
+2017-04-08T23:09:11,565 [Thread-1] INFO epam.vladlitvin.Station - автобус №53Прибыл на остановку Никитино
+2017-04-08T23:09:11,565 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,566 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,566 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,566 [Thread-5] INFO epam.vladlitvin.Station - автобус №33Уехал с остановки Цнянское водохранилище
+2017-04-08T23:09:11,566 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,566 [Thread-5] INFO epam.vladlitvin.Bus - Автобус #33 закончил маршрут.
+2017-04-08T23:09:11,566 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,566 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,566 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,566 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,566 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,566 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,566 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,566 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,567 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,567 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,567 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,567 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,567 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,567 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,567 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,567 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,567 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,567 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,568 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,568 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,568 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,568 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,568 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,568 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,568 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,568 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,568 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:09:11,586 [Thread-4] INFO epam.vladlitvin.Station - автобус №34Уехал с остановки Зелёный луг-7
+2017-04-08T23:09:11,586 [Thread-2] INFO epam.vladlitvin.Station - автобус №46Уехал с остановки Мирошниченко
+2017-04-08T23:09:11,586 [Thread-3] INFO epam.vladlitvin.Station - автобус №24Уехал с остановки Кольцова
+2017-04-08T23:09:11,586 [Thread-4] INFO epam.vladlitvin.Bus - Автобус #34 закончил маршрут.
+2017-04-08T23:09:11,586 [Thread-2] INFO epam.vladlitvin.Bus - Автобус #46 закончил маршрут.
+2017-04-08T23:09:11,586 [Thread-3] INFO epam.vladlitvin.Bus - Автобус #24 закончил маршрут.
+2017-04-08T23:09:16,574 [Thread-1] INFO epam.vladlitvin.Station - автобус №53Уехал с остановки Никитино
+2017-04-08T23:09:16,574 [Thread-1] INFO epam.vladlitvin.Bus - Автобус #53 закончил маршрут.
+2017-04-08T23:10:29,762 [Thread-1] INFO epam.vladlitvin.Bus - Автобус #53Начал движение по маршрутуЗелёный луг-7 -- Никитино
+2017-04-08T23:10:29,762 [Thread-5] INFO epam.vladlitvin.Bus - Автобус #33Начал движение по маршрутуЗелёный луг-7 -- Никитино
+2017-04-08T23:10:29,762 [Thread-3] INFO epam.vladlitvin.Bus - Автобус #24Начал движение по маршрутуЗелёный луг-7 -- Никитино
+2017-04-08T23:10:29,762 [Thread-4] INFO epam.vladlitvin.Bus - Автобус #34Начал движение по маршрутуЗелёный луг-7 -- Никитино
+2017-04-08T23:10:29,762 [Thread-2] INFO epam.vladlitvin.Bus - Автобус #46Начал движение по маршрутуЗелёный луг-7 -- Никитино
+2017-04-08T23:10:29,769 [Thread-1] INFO epam.vladlitvin.Station - автобус №53Прибыл на остановку Цнянское водохранилище
+2017-04-08T23:10:29,769 [Thread-3] INFO epam.vladlitvin.Station - автобус №24Прибыл на остановку Гамарника
+2017-04-08T23:10:29,769 [Thread-5] INFO epam.vladlitvin.Station - автобус №33Прибыл на остановку Зелёный луг-7
+2017-04-08T23:10:29,769 [Thread-2] INFO epam.vladlitvin.Station - автобус №46Прибыл на остановку Мирошниченко
+2017-04-08T23:10:29,769 [Thread-4] INFO epam.vladlitvin.Station - автобус №34Прибыл на остановку Зелёный луг-7
+2017-04-08T23:10:29,769 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:10:29,769 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:10:29,769 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:10:29,769 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:10:29,769 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:10:29,769 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:10:29,769 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:10:29,769 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:10:29,769 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:10:29,769 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:10:29,769 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:10:29,769 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:10:29,769 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:10:29,769 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:10:29,769 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:10:29,769 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:10:29,769 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:10:29,769 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:10:29,769 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:10:29,769 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:10:29,769 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:10:29,769 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:10:29,769 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:10:29,769 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:10:29,769 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:10:29,769 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:10:29,769 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:10:29,769 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:10:29,769 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:10:29,769 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:10:29,769 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:10:29,769 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:10:29,769 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:10:29,769 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:10:29,769 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:10:29,769 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:10:29,769 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:10:29,769 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:10:29,769 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:10:29,769 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:10:29,769 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:10:29,769 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:10:29,769 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:10:29,769 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:10:29,769 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:10:29,769 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:10:29,784 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:10:29,784 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:10:29,784 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:10:29,784 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:10:29,784 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:10:29,784 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:10:29,784 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:10:29,784 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:10:29,784 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:10:29,784 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:10:29,784 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:10:29,784 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:10:29,784 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:10:29,784 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:10:29,784 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:10:29,784 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:10:29,784 [Thread-1] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 53
+2017-04-08T23:10:29,784 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:10:29,784 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:10:29,784 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:10:29,784 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
+2017-04-08T23:10:29,784 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:10:29,784 [Thread-5] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 33
+2017-04-08T23:10:29,784 [Thread-3] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 24
+2017-04-08T23:10:29,784 [Thread-4] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 34
+2017-04-08T23:10:29,784 [Thread-2] INFO vladlitvin.action.PassengerTransporter - null get out from bus # 46
