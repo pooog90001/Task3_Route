@@ -24,11 +24,12 @@ public class PassengerTransporter {
 
         int countGetOn = random.nextInt(RANDOM_BORDER);
         for (int i = 0; i < countGetOn; i++) {
-            int index = random.nextInt(RANDOM_BORDER );
+            int index = random.nextInt(Bus.PASSANGER_CAPACITY - 1);
             if (bus.getPassanger(index) == null) {
                 locker.lock();
                 bus.setPassanger(new Passenger(appropriateID()), index);
-                LOGGER.log(INFO,bus.getPassanger(index) + " get on the  bus № " + bus.getRouteNumber() );
+                LOGGER.log(INFO,bus.getPassanger(index) + " get on the  bus № "
+                        + bus.getRouteNumber() + ", on plase № " + index );
                 locker.unlock();
             }
         }
@@ -39,7 +40,7 @@ public class PassengerTransporter {
         int countGetOff = random.nextInt(RANDOM_BORDER);
 
         for (int i = 0; i < countGetOff; i++) {
-            int index = random.nextInt(RANDOM_BORDER);
+            int index = random.nextInt(Bus.PASSANGER_CAPACITY - 1);
 
             if (bus.getPassanger(index) != null) {
                 LOGGER.log(INFO, bus.getPassanger(index) + " get off the bus № " + bus.getRouteNumber());

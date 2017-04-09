@@ -17,14 +17,14 @@ public class Bus extends Thread{
     private int routeNumber;
     private int busNumber;
     private final Passenger[] passengers = new Passenger[PASSANGER_CAPACITY];
-    private RouteBus routeBus;
+    private Route route;
 
     private boolean onStation;
 
-    public Bus(int routeNumber, int busNumber, RouteBus routeBus) {
+    public Bus(int routeNumber, int busNumber, Route route) {
         this.routeNumber = routeNumber;
         this.busNumber = busNumber;
-        this.routeBus = routeBus;
+        this.route = route;
 
     }
 
@@ -62,10 +62,10 @@ public class Bus extends Thread{
 
     @Override
     public void run() {
-        LOGGER.log(INFO, "Bus № " + routeNumber + " Started move on rout: " + routeBus.getName());
-        while (!routeBus.getRoute().isEmpty()) {
+        LOGGER.log(INFO, "Bus № " + routeNumber + " Started move on rout: " + route.getName());
+        while (!route.getRoute().isEmpty()) {
             try {
-                Station station = rideNextStation(routeBus.getRoute());
+                Station station = rideNextStation(route.getRoute());
                 station.arrive(this);
                 SECONDS.sleep(INT_FOUR);
                 station.depart(this);

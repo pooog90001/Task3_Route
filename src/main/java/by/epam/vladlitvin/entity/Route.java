@@ -10,11 +10,11 @@ import static org.apache.logging.log4j.Level.ERROR;
 /**
  * Created by vlad_ on 4/3/2017.
  */
-public class RouteBus implements Cloneable {
+public class Route implements Cloneable {
     private final static Logger LOGGER = LogManager.getLogger();
     private ArrayDeque<Station> route;
 
-    public RouteBus(ArrayDeque<Station> route) {
+    public Route(ArrayDeque<Station> route) {
         this.route = route;
     }
 
@@ -29,15 +29,15 @@ public class RouteBus implements Cloneable {
 
 
     @Override
-    public RouteBus clone() {
-        RouteBus routeBus = null;
+    public Route clone() {
+        Route route = null;
         try {
-            routeBus = (RouteBus) super.clone();
-            routeBus.route = route.clone();
+            route = (Route) super.clone();
+            route.route = this.route.clone();
 
         } catch (CloneNotSupportedException e) {
-            LOGGER.log(ERROR,"Can't clone RouteBus object " + e);
+            LOGGER.log(ERROR,"Can't clone Route object " + e);
         }
-        return routeBus;
+        return route;
     }
 }

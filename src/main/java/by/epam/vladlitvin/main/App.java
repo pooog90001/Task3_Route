@@ -1,7 +1,7 @@
 package by.epam.vladlitvin.main;
 
 import by.epam.vladlitvin.entity.Bus;
-import by.epam.vladlitvin.entity.RouteBus;
+import by.epam.vladlitvin.entity.Route;
 import by.epam.vladlitvin.entity.Station;
 
 import java.util.ArrayDeque;
@@ -19,12 +19,12 @@ public class App {
             addLast(new Station("Кольцова"));
             addLast(new Station("Никитино"));
         }};
-        RouteBus routeBus = new RouteBus(stations);
-        new Bus(53, 8525, routeBus.clone()).start();
-        new Bus(46, 8545, routeBus.clone()).start();
-        new Bus(24, 7525, routeBus.clone()).start();
-        new Bus(34, 8565, routeBus.clone()).start();
-        new Bus(33, 8225, routeBus.clone()).start();
+        Route route = new Route(stations);
+        new Bus(53, 8525, route.clone()).start();
+        new Bus(46, 8545, route.clone()).start();
+        new Bus(24, 7525, route.clone()).start();
+        new Bus(34, 8565, route.clone()).start();
+        new Bus(33, 8225, route.clone()).start();
 
 
     }
