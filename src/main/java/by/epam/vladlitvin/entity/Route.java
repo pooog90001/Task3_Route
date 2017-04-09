@@ -40,4 +40,32 @@ public class Route implements Cloneable {
         }
         return route;
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) {
+            return true;
+        }
+        if (!(o instanceof Route)) {
+            return false;
+        }
+
+        Route route1 = (Route) o;
+
+        return route != null ?
+                route.equals(route1.route) :
+                route1.route == null;
+    }
+
+    @Override
+    public int hashCode() {
+        return route != null ? route.hashCode() : 0;
+    }
+
+    @Override
+    public String toString() {
+        return "Route{" +
+                "route=" + route +
+                '}';
+    }
 }

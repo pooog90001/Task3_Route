@@ -14,4 +14,23 @@ public class Passenger {
     public String toString() {
         return name ;
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) {
+            return true;
+        }
+        if (!(o instanceof Passenger)) {
+            return false;
+        }
+
+        Passenger passenger = (Passenger) o;
+
+        return name.equals(passenger.name);
+    }
+
+    @Override
+    public int hashCode() {
+        return name.hashCode();
+    }
 }

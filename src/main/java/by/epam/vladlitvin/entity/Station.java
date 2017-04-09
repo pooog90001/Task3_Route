@@ -54,4 +54,35 @@ public class Station implements Cloneable {
     }
 
 
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) {
+            return true;
+        }
+        if (!(o instanceof Station)) {
+            return false;
+        }
+
+        Station station = (Station) o;
+
+        if (!semaphore.equals(station.semaphore)) {
+            return false;
+        }
+        return name.equals(station.name);
+    }
+
+    @Override
+    public int hashCode() {
+        int result = semaphore.hashCode();
+        result = 31 * result + name.hashCode();
+        return result;
+    }
+
+    @Override
+    public String toString() {
+        return "Station{" +
+                "semaphore=" + semaphore +
+                ", name='" + name + '\'' +
+                '}';
+    }
 }

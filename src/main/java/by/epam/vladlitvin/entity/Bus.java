@@ -1,6 +1,9 @@
 package by.epam.vladlitvin.entity;
 
 import org.apache.logging.log4j.Logger;
+
+import java.util.Arrays;
+
 import static by.epam.vladlitvin.action.Rider.*;
 import static java.util.concurrent.TimeUnit.SECONDS;
 import static org.apache.logging.log4j.Level.ERROR;
@@ -76,5 +79,52 @@ public class Bus extends Thread{
             }
         }
         LOGGER.log(INFO, "Bus № " + routeNumber + " finished route");
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) {
+            return true;
+        }
+        if (!(o instanceof Bus)) {
+            return false;
+        }
+
+        Bus bus = (Bus) o;
+
+        if (routeNumber != bus.routeNumber) {
+            return false;
+        }
+        if (busNumber != bus.busNumber) {
+            return false;
+        }
+        if (onStation != bus.onStation) {
+            return false;
+        }
+        if (!Arrays.equals(passengers, bus.passengers)) {
+            return false;
+        }
+        return route.equals(bus.route);
+    }
+
+    @Override
+    public int hashCode() {
+        int result = routeNumber;
+        result = 31 * result + busNumber;
+        result = 31 * result + Arrays.hashCode(passengers);
+        result = 31 * result + route.hashCode();
+        result = 31 * result + (onStation ? 1 : 0);
+        return result;
+    }
+
+    @Override
+    public String toString() {
+        return "Bus{" +
+                "routeNumber=" + routeNumber +
+                ", busNumber=" + busNumber +
+                ", passengers=" + Arrays.toString(passengers) +
+                ", route=" + route +
+                ", onStation=" + onStation +
+                '}';
     }
 }
