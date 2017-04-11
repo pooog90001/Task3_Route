@@ -17,20 +17,19 @@ import static org.apache.logging.log4j.LogManager.*;
 public class PassengerTransporter {
     private final static Logger LOGGER = getLogger();
     private final static int RANDOM_BORDER = 5;
-    private static ReentrantLock locker = new ReentrantLock(true);
 
     public static void passangersGetOn(Bus bus) {
         Random random = new Random();
 
         int countGetOn = random.nextInt(RANDOM_BORDER);
+
         for (int i = 0; i < countGetOn; i++) {
             int index = random.nextInt(Bus.PASSANGER_CAPACITY - 1);
+
             if (bus.getPassanger(index) == null) {
-                locker.lock();
                 bus.setPassanger(new Passenger(appropriateID()), index);
                 LOGGER.log(INFO,bus.getPassanger(index) + " get on the  bus № "
                         + bus.getRouteNumber() + ", on plase № " + index );
-                locker.unlock();
             }
         }
     }

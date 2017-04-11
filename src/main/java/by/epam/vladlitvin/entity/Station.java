@@ -14,7 +14,7 @@ import static org.apache.logging.log4j.Level.*;
 /**
  * Created by vlad_ on 4/2/2017.
  */
-public class Station implements Cloneable {
+public class Station {
     private final static Logger LOGGER = LogManager.getLogger();
     private final static int INT_ONE = 1;
     private final static int STATION_CAPACITY = 3;
